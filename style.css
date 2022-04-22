@@ -45,6 +45,12 @@ button {
   background-color: #1fa3ec;
 }
 
+#chartReport {
+   width: 100%;
+   text-align:center;
+}
+
 canvas {
-  margin: 15px;
+  display: inline;
+  margin: auto;
 }
